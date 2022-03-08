@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Homework PDF
+Homework10.pdf
+
 # Object files
 *.o
 *.ko
