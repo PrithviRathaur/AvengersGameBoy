@@ -4,7 +4,6 @@ volatile unsigned short *videoBuffer = (volatile unsigned short *) 0x6000000;
 u32 vBlankCounter = 0;
 
 void waitForVBlank(void) {
-    // TA-TODO: IMPLEMENT
 
     // Write a while loop that loops until we're NOT in vBlank anymore:
     // (This prevents counting one VBlank more than once if your app is too fast)
