@@ -6,7 +6,13 @@ This project contains the files used to create a gameboy game in C. The game's m
 
 This project was done in C to gain in understanding of C and implement object oriented programming in C. The gameboy game was run on a docker container that contained a gameboy emulator. Another goal of the project was to write efficient code, as the gameboy is not a computationally powerful device. The game was programmed as a finite state machine, with numerous states corresponding to situations in the game. 
 
+# Gameplay of a Loss
+
 [![Gameplay of a Loss](https://img.youtube.com/vi/8KhIv_sltKI/0.jpg)](https://www.youtube.com/watch?v=8KhIv_sltKI)
+
+# Gameplay of a Win
+
+[![Gameplay of a Loss](https://img.youtube.com/vi/orXIeVi3ilQ/0.jpg)](https://www.youtube.com/watch?v=orXIeVi3ilQ)
 
 ## File Description
 
